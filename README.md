@@ -1,6 +1,6 @@
 # ideal-parakeet (Digital Clock)
 
-Officially, this site form the Easy Tutorials YT channel. It displays time ensures that the time displayed is updated in real-time. This website showcases the front-end beauty of HTML5, CSS3, and JavaScript.
+It displays time and ensures that the time displayed is updated in real-time. This website showcases the front-end beauty of HTML5, CSS3, and JavaScript.
 
 ## Table of Contents
 
